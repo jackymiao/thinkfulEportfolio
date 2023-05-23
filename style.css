@@ -34,9 +34,9 @@ footer {
   border: 3px solid #d0f5be;
 }
 /*align copyright to the center*/
-footer > p{
+footer p{
   width:100%;
-  text-aligh:center;
+  text-align:center;
 }
 
 /* style the title for each section*/
